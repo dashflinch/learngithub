@@ -1,4 +1,4 @@
 # learngithub
-this is my learning git repository
+This is My Learning Git Repository
 <br>
 Author : Sonali Dash 
